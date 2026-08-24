@@ -1,0 +1,5 @@
+# dsh-reload-button bundle patch: one loader row; the web modules
+# scanner discovers the browser half through the `dsh.client` declaration.
+- insert:
+    - id: dsh-reload-button
+      name: dsh-reload-button
